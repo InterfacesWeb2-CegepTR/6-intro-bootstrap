@@ -1,0 +1,14 @@
+.box {
+	border: 1px solid #c5c5c5;
+	text-align: center;
+	padding: 2em;
+}
+
+.vh-25{
+	height: 25vh;
+}
+
+.vh-50{
+	height: 50vh;
+}
+	
